@@ -1,2 +1,1 @@
-# FullStack
-A FullStack App.
+Learn Fullstack development.
